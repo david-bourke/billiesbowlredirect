@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://www.petstock.com.au/pages/billies-bowl",
+      "statusCode": 301
+    }
+  ]
+}
